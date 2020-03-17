@@ -2,7 +2,7 @@
 
 ## Postman
 
-POST http://localhost:3000/api/Bisection-Method/
+POST http://localhost:3000/api/Bisection-Method/  
 BODY -> RAW -> JSON
 
 ```JSON
