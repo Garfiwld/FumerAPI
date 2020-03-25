@@ -20,6 +20,7 @@ http://localhost:3000/api/False-position-Method/
 	"xl":"0",
 	"xr":"1"
 }
+```
 
 http://localhost:3000/api/Newton-raphson-Method/
 ```JSON
